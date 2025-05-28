@@ -21,7 +21,8 @@ let g; // undefined is a data type that represents a variable that has been decl
 console.log(a, b, c, d, e, f, g);
 console.log(typeof d); // null is an object type in JavaScript
 
-/* objects*/
+/*non primitive data types
+1. objects*/
 let person = {
     name: "bhagya",
     age: 25,
